@@ -48,3 +48,6 @@ OCR - EasyOCR
 ### 5. Kakao 챗봇 시나리오 구성 및 기본 프론트
 - **기술**: Kakao 챗봇 Developers
 - **설명**: Kakao 챗봇 시나리오를 구성하고 기본적인 프론트 구현
+
+### 6. 시연영상
+https://github.com/user-attachments/assets/16ef9c2a-8e91-4195-9c1d-2450fe0deb02
